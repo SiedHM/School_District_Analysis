@@ -52,7 +52,7 @@ We can compare schools based on the overall (both math and reading) passing perc
 
 ### f.	Top -5 performing schools after 
 
-![https://github.com/nebil2016/School_District_Analysis/blob/main/Resources/Fig-7%20school%20summary%20afer(top%20five%20schools1).png)
+![fig-8](https://github.com/nebil2016/School_District_Analysis/blob/main/Resources/Fig-7%20school%20summary%20afer(top%20five%20schools1).png)
 
 
 
