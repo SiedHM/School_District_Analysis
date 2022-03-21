@@ -21,7 +21,8 @@ To update the percentage of students who passed reading, math, and both, we need
 Based on this number, we can get the new total number of students by subtracting the number of 9th grade high school students from the total number of students(student_count). In what follows, I compare the results with and without replacement of the 9th grade math and reading to NaN.
 # 2.	Results
 ## 2.1.	District school summary
-    There are some differences in the districts summary results before and after the replacement of 9th grade Thomas Highschool to NaN. This change comes due to the change in total number of students. The Tables-a and b shows that there are some changes in the scores and percentages of pass. For exmaple;
+
+There are some differences in the districts summary results before and after the replacement of 9th grade Thomas Highschool to NaN. This change comes due to the change in total number of students. The Tables-a and b shows that there are some changes in the scores and percentages of pass. For exmaple;
 -	At a district level, the average reading score was 92 before the replacement, it changed to 81.86 after replacement
 ### a.	District summary before replacement
 
