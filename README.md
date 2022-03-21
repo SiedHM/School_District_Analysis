@@ -54,5 +54,47 @@ We can compare schools based on the overall (both math and reading) passing perc
 
 ![fig-8](https://github.com/nebil2016/School_District_Analysis/blob/main/Resources/Fig-7%20school%20summary%20afer(top%20five%20schools1).png)
 
+## 2.4.	Math and reading by grade 
+The math result for grade 9th for Thomas High School before the replacement was 83.6(Table-g). After the replacement, the result is changed to NaN(table-h). For all other schools, there is no change.
+### g.	Top five math result by grade, before the replacement
+
+![fig-9](https://github.com/nebil2016/School_District_Analysis/blob/main/Resources/maths%20by%20grade%20top%20five%20befoe.png)
+
+### h.	Top five math result by grade, after the replacement
+
+![fig-10](https://github.com/nebil2016/School_District_Analysis/blob/main/Resources/maths%20by%20grade(top%205%209th).png)
+
+The result for reading is similar to the math. Before the replacement, the reading score for 9th grade Thomas Highschool was 83.7(table-i), after the replacement it became “nan”(Table-j).
+### i.	Top seven reading by grade, before replacement
+
+![fig-11](https://github.com/nebil2016/School_District_Analysis/blob/main/Resources/reading%20by%20grade(top%207)%20before.png)
+
+### j.	Top seven reading by grade, after replacement
+
+![fig-12](https://github.com/nebil2016/School_District_Analysis/blob/main/Resources/reading%20by%20grade(top%207)%20after.png)
+
+## 2.5.	Scores by spending, size and type
+   The codes result in similar results before and after the replacement. 
+### k.	Scores by school spending 
+
+![fig-13](https://github.com/nebil2016/School_District_Analysis/blob/main/Resources/scores%20by%20school%20spending.png)
+
+### l.	Scores by size
+
+![fig-14](https://github.com/nebil2016/School_District_Analysis/blob/main/Resources/scores%20by%20school%20size.png)
+
+### m.	Scores by type 
+
+![fig-15](https://github.com/nebil2016/School_District_Analysis/blob/main/Resources/scores%20by%20school%20type.png)
+
+### 3.	Summary.
+The Math and reading results were replaced for 9th grade students of Thomas High school, but this does not bring change to the magnitude of scores and percentages of other schools. The replacement; however, improves Thomas High school’s performance relative to other schools. The replacement also slightly changes the districts school level performances.  The results show that scores by size, spending and school type were unchanged by the replacement. 
+
+
+
+
+
+
+
 
 
